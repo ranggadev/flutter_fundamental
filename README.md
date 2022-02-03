@@ -1,16 +1,13 @@
-# flutter_fundamental
+# Flutter Fundamental by Rangga Saputra (@rangga.dev)
 
-A new Flutter project.
+![image](https://user-images.githubusercontent.com/34878649/152263025-faa36ce3-572c-4d66-8414-5072683843d4.png)
 
-## Getting Started
+Mari bersama belajar, dukung dengan cara memfollow akun-akun di bawah ini agar teman-teman dapat lebih mudah menerima informasi terbaru terkait dunia Flutter dan teknologi pendukungnya.
 
-This project is a starting point for a Flutter application.
+- Personal Website : https://ranggasaputra.my.id/
+- Github : https://github.com/ranggadev
+- LinkedIn : https://www.linkedin.com/in/ranggadev/
+- Youtube : https://www.youtube.com/c/IndoFlutter
+- Personal IG : https://www.instagram.com/rangga.dev/
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+TERIMA KASIH
